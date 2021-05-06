@@ -1,0 +1,20 @@
+{
+  "name": "zlux-dataservice-types",
+  "version": "1.0.0",
+  "description": "Type definitions for Zlux DataServices",
+  "main": "",
+  "types": "index",
+  "license": "EPL-2.0",
+  "homepage": "zowe.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lchudinov/zlux-dataservice-types.git"
+  },
+  "author": {
+    "name": "Leonty Chudinov",
+    "email": "lchudinov@rocketsoftware.com"
+  },
+  "dependencies": {
+    "@types/express": "~4.16.1"
+  }
+}
